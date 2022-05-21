@@ -11,4 +11,4 @@
 
 
 ### 🚩 Projects:
-- Le badgent développer sur discord
+- Le badge développer sur discord
