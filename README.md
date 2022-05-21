@@ -6,8 +6,9 @@
 - 📫 Comment me joindre : [Clic-droit](https://discord.gg/9v4ZVfSSDU)
 
 ### ⚙️ Outils de programmation:
-[Visual Studio Code](https://code.visualstudio.com/)
-[GitHub](https://github.com)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub](https://github.com)
 
 
 ### 🚩 Projects:
+- Le badgent développer sur discord
