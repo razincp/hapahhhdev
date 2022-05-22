@@ -11,4 +11,4 @@
 
 
 ### 🚩 Projects:
-- Le badge développer sur discord
+- Iam sydrazin
